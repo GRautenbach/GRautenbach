@@ -1,8 +1,5 @@
 My name is Gustav Rauenbach.
 
-I am a student at Nelson Mandela University (NMU) and the Univesity of Western Brittany (UBO). 
+I am a student at Nelson Mandela University (NMU) where I am doing my PhD in Physical Oceanpgraphy. 
 
-My main interst is numerical modelling of ocean dynamics. 
-
-I am working to develop tools used to process, evaluate and visualize model outputs of the Coastal and Regional Ocean COmmunity (CROCO) modelling system in python. 
-
+My github mostly cosists of python scripts to process and visualise the CROCO model. 
